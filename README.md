@@ -4,7 +4,7 @@
 
 ## There was a time when I was wary of numbers-math-statistics-science. I walked along the social sciences route for a long time, until one day I realized the value of learning technical and practical skills. <br>
 
-##   Wowwww...I like numbers and science!! What was I so afraid of all these years? The more I solved puzzles, the more fascinated I became of the subject matter and got lost in the world of manipulating big data. Not lost to the point where it feels like work, but rather where time passes and I'm still having fun. Where I immerse myself in complex data, trying to figure out the right codes, and seeing results. I realized it felt like less of a job and more of a fun game to solve. It's not so bad after all. <br>
+##   Wowwww...I like numbers and science!! What was I so afraid of all these years? The more I solved puzzles, the more fascinated I became of the subject matter and got lost in the world of data manipulation. Not lost to the point where it feels like work, but rather where time passes and I'm still having fun. Where I immerse myself in complex data, trying to figure out the right codes, and seeing results. I realized it felt like less of a job and more of a fun game to solve. It's not so bad after all. <br>
 
 > ## 💞️  This artist, this poet, this writer, this yoga and meditation enthusiast also likes intrinsic component source of intellectual tools and engendering new ways of thinking. 💞️ <br> <br>
 
