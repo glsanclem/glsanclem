@@ -1,7 +1,4 @@
-<img src="https://user-images.githubusercontent.com/113868202/195259180-87b12e92-bf6c-43dd-9a45-d8e15b817e51.gif" width="700" 
-     height="268" /><img src="https://user-images.githubusercontent.com/113868202/195263599-63d2252b-f1dd-479f-8f17-54d1d200f279.png" 
-     width="300" 
-     height="268" />
+<img src="https://user-images.githubusercontent.com/113868202/195259180-87b12e92-bf6c-43dd-9a45-d8e15b817e51.gif" width="600" height="268" /><img src="https://user-images.githubusercontent.com/113868202/195263599-63d2252b-f1dd-479f-8f17-54d1d200f279.png" width="300" height="268" />
  
 ## 🔭 👀  I'm peering through the telescopic lens at numbers and science. Can I be a part of that world? My curiosity heightens. <br>
 
