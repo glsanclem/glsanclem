@@ -2,7 +2,7 @@
  
 ## 🔭 👀  I'm peering through the telescopic lens at numbers and science. Can I be a part of that world? My curiosity heightens. <br>
 
-## There was a time when I was weiry of numbers-math-statistics-science. I walked along the social sciences route for a long time, until one day I realized the value of learning technical and practical skills. <br>
+## There was a time when I was wary of numbers-math-statistics-science. I walked along the social sciences route for a long time, until one day I realized the value of learning technical and practical skills. <br>
 
 ##   Wowwww...I like numbers and science!! What was I so afraid of all these years? The more I solved puzzles, the more fascinated I became of the subject matter and got lost in the world of manipulating big data. Not lost to the point where it feels like work, but rather where time passes and I'm still having fun. Where I immerse myself in complex data, trying to figure out the right codes, and seeing results. I realized it felt like less of a job and more of a fun game to solve. It's not so bad after all. <br>
 
