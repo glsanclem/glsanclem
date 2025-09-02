@@ -1,13 +1,8 @@
 <img src="https://user-images.githubusercontent.com/113868202/195259180-87b12e92-bf6c-43dd-9a45-d8e15b817e51.gif" width="1000" height="268" />
 
-## 🔭 I'm peering through the telescopic lens at numbers and science. Can I be a part of that world? My curiosity heightens. There was a time when I was wary of numbers-math-statistics-science. I walked along the social sciences route for a long time, until one day I realized the value of learning technical and practical skills. <br>
+🔭 Exploring the intersections of social science, data, and technology. I enjoy hands-on challenges, learning new technical skills, and solving puzzles that stretch my mind.
 
-##   Wowwww...I like numbers and science!! What was I so afraid of all these years? The more I solved puzzles, the more fascinated I became of the subject matter and got lost in the world of data manipulation. Not lost to the point where it feels like work, but rather where time passes and I'm still having fun. Where I immerse myself in complex data, trying to figure out the right codes, and seeing results. I realized it felt like less of a job and more of a fun game to solve. It's not so bad after all. With multiple passions and interested in many things, I learn to appreciate everything about life, and my interest in knowledge never ends. Thank you for stopping by. <br>
-
-<img src="https://user-images.githubusercontent.com/113868202/195263599-63d2252b-f1dd-479f-8f17-54d1d200f279.png" width="300" height="268" />
-
-
-> ## 💞️  This artist, poet, writer, yoga and meditation enthusiast also likes intrinsic component source of technical tools and engendering new ways of thinking. 💞️ <br> <br>
+💡 Interests include cybersecurity, data analysis, writing, art, and creative problem-solving.
 
   <thead>
     <tr>
