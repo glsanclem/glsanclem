@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/113868202/195259180-87b12e92-bf6c-43dd-9a45-d8e15b817e51.gif" width="1000" height="268" />
 
-🔭 Exploring the intersections of social science, data, and technology. I enjoy hands-on challenges, learning new technical skills, and solving puzzles that stretch my mind.
+🔭 Exploring the intersections of cybersecurity, social science, global health, and technology. I enjoy hands-on challenges, learning new technical skills, and solving puzzles that stretch my mind.
 
 💡 Interests include cybersecurity, data analysis, writing, art, and creative problem-solving.
 
